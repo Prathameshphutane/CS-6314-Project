@@ -1,0 +1,21 @@
+<%- include('partials/header') %>
+
+<div class="container-fluid">
+
+    <h1>Movie details</h1>
+
+    <p><img src="/images/<%= video.img %>"/></p>
+    <p>Title: <%= video.title %></p>
+    <p>Genre: <%= video.genre %></p>
+    <p>Description: <%= video.description %></p>
+
+
+<p>
+<a href="/videos">Back to list</a>
+
+</p>
+</div>
+
+
+
+<%- include('partials/footer') %>

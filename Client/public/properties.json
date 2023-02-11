@@ -1,0 +1,76 @@
+[
+    {
+       "id":1,
+        "img" : "001.jpg",
+        "title" : "Luxury house - Dallas,Tx",
+        "description" : "A beautiful house near university area for a unique and comforting experience",
+        "nightlyfee" : "$79/night",
+        "cleaningfee" : "$50",
+        "servicefee" : "$50",
+        "amenities" : "Kitchen, Dedicated workspace, Window AC unit, Private backyard",
+        "bedrooms" : "2",
+        "location" : "Located near University of Texas, Dallas"
+    },
+    {
+        "id":2,
+        "img" : "002.jpg",
+        "title" : "Boat house - Arlington,Tx",
+        "description" : "A peaceful house near arlington area with breathtaking sunset view from window",
+        "nightlyfee" : "$89/night",
+        "cleaningfee" : "$50",
+        "servicefee" : "$50",
+        "amenities" : "Private balcony or patio, Long term stays allowed, Dedicated workspace, sunset view",
+        "bedrooms" : "3",
+        "location" : "Located beside the lake and known for camping."
+    },
+    {
+        "id":3,
+        "img" : "003.jpg",
+        "title" : "Luxury house - Austin,Tx",
+        "description" : "A house with swiming pool and backyard near austin near downtown",
+        "nightlyfee" : "$80/night",
+        "cleaningfee" : "$50",
+        "servicefee" : "$50",
+        "amenities" : "Window AC unit, Free parking on premises, Refrigerator, Long term stays allowed",
+        "bedrooms" : "2",
+        "location" : "Located on Coit rd. 10 miles to Downtown."
+
+    },
+    {
+        "id":4,
+        "img" : "004.jpg",
+        "title" : "Luxury house-San Antonio,Tx",
+        "description" : "Located in Downtown of San Antonio with a friendly caretaker and luxurious stay",
+        "nightlyfee" : "$150/night",
+        "cleaningfee" : "$50",
+        "servicefee" : "$50",
+        "amenities" : "Mountain view, Mountain view, Private backyard – Not fully fenced",
+        "bedrooms" : "4",
+        "location" : "Located in Downtown of San Antonio."
+    },
+    {
+        "id":5,
+        "img" : "005.jpg",
+        "title" : "Boat house - Troy,MI",
+        "description" : "A perfect house for weekend gateway with kayaking facility",
+        "nightlyfee" : "$150/night",
+        "cleaningfee" : "$70",
+        "servicefee" : "$50",
+        "amenities" : "Private balcony or patio, Long term stays allowed, Dedicated workspace, sunset view, refrigerator",
+        "bedrooms" : "3",
+        "location" : "Located beside the lake and known for kayaking."
+    },
+    { 
+        "id":6,
+        "img" : "006.jpg",
+        "title" : "Pent house - Seattle",
+        "description" : "A serence view from a pent house which will take your breathe away",
+        "nightlyfee" : "$100/night",
+        "cleaningfee" : "$50",
+        "servicefee" : "$60",
+        "amenities" : "Mountain view, Private backyard – Not fully fenced",
+        "bedrooms" : "4",
+        "location" : "Located near Mountain"
+    }
+ 
+    ]
